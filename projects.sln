@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "servo", "servo\servo.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "piezo", "piezo\piezo.vcxproj", "{6333BFF5-6558-4D46-871D-3CA0A656A759}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "resistor", "resistor\resistor.vcxproj", "{B723DC80-588D-4882-B21C-C840EAD855A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -45,6 +47,10 @@ Global
 		{6333BFF5-6558-4D46-871D-3CA0A656A759}.Debug|x86.Build.0 = Debug|Win32
 		{6333BFF5-6558-4D46-871D-3CA0A656A759}.Release|x86.ActiveCfg = Release|Win32
 		{6333BFF5-6558-4D46-871D-3CA0A656A759}.Release|x86.Build.0 = Release|Win32
+		{B723DC80-588D-4882-B21C-C840EAD855A0}.Debug|x86.ActiveCfg = Debug|Win32
+		{B723DC80-588D-4882-B21C-C840EAD855A0}.Debug|x86.Build.0 = Debug|Win32
+		{B723DC80-588D-4882-B21C-C840EAD855A0}.Release|x86.ActiveCfg = Release|Win32
+		{B723DC80-588D-4882-B21C-C840EAD855A0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
