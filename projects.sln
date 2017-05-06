@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "temperature", "temperature\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "colours", "colours\colours.vcxproj", "{9F1725D0-50CD-4ACD-979D-F56FE46C8A2E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "servo", "servo\servo.vcxproj", "{24864FD6-6B65-4806-973E-486204A572F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -33,6 +35,10 @@ Global
 		{9F1725D0-50CD-4ACD-979D-F56FE46C8A2E}.Debug|x86.Build.0 = Debug|Win32
 		{9F1725D0-50CD-4ACD-979D-F56FE46C8A2E}.Release|x86.ActiveCfg = Release|Win32
 		{9F1725D0-50CD-4ACD-979D-F56FE46C8A2E}.Release|x86.Build.0 = Release|Win32
+		{24864FD6-6B65-4806-973E-486204A572F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{24864FD6-6B65-4806-973E-486204A572F6}.Debug|x86.Build.0 = Debug|Win32
+		{24864FD6-6B65-4806-973E-486204A572F6}.Release|x86.ActiveCfg = Release|Win32
+		{24864FD6-6B65-4806-973E-486204A572F6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
